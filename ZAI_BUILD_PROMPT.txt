@@ -1,0 +1,767 @@
+Build a complete premium website for an event production company called:
+
+CAPZ ENTERTAINMENT
+
+Tagline:
+“Events Beyond the Ordinary”
+
+IMPORTANT BRAND RULE:
+The entire website must feel like ONE unified Capz Entertainment brand.
+
+Every page must use the same visual language, colour system, typography hierarchy, buttons, cards, spacing, animations, borders, gradients, glow effects and navigation system.
+
+DO NOT make each page look like a different template.
+
+==================================================
+BRAND IDENTITY
+==================================================
+
+Capz Entertainment is an event production company specializing in:
+
+• Concerts & Live Shows
+• Corporate Events
+• College Culturals
+• Event Production
+• Stage & Technical Production
+• Artist & Talent Experiences
+• Event Branding
+• Complete Event Experiences
+
+Brand personality:
+
+• Premium
+• Cinematic
+• Bold
+• Energetic
+• Youthful
+• Futuristic
+• Professional
+• Creative
+• High-impact
+
+The website should feel like a combination of:
+premium entertainment brand + concert production company + creative agency.
+
+Avoid the generic “event planner” website look.
+
+The experience should feel like entering a major concert production.
+
+==================================================
+COLOUR SYSTEM
+==================================================
+
+Use ONLY this primary brand palette:
+
+Deep Black:
+#0B0B17
+
+Electric Purple:
+#8B5CF6
+
+Lavender:
+#C4B5FD
+
+Light Lavender:
+#E9D5FF
+
+White:
+#FFFFFF
+
+Soft Gray:
+#A1A1AA
+
+Magenta:
+#D946EF
+
+Neon Pink:
+#FF4DCE
+
+Colour usage:
+
+• #0B0B17 = primary website background
+• #FFFFFF = main headings and important text
+• #A1A1AA = secondary text
+• #8B5CF6 = primary buttons, active states and accents
+• #C4B5FD = secondary highlights
+• #E9D5FF = subtle decorative elements
+• #D946EF = energetic accent
+• #FF4DCE = occasional neon glow/highlight
+
+Do NOT introduce unrelated colours.
+
+Do NOT use random gradients involving other colours.
+
+Preferred gradients:
+#8B5CF6 → #D946EF
+#8B5CF6 → #FF4DCE
+
+Keep gradients subtle and premium.
+
+==================================================
+LOGO
+==================================================
+
+Use the provided Capz Entertainment logo as the official brand logo.
+
+DO NOT redesign the logo.
+
+DO NOT change the logo colours.
+
+DO NOT distort, stretch or modify the logo.
+
+Use the logo in:
+• Navbar
+• Footer
+• Homepage hero where appropriate
+• Loading/intro animation if suitable
+
+On dark backgrounds, preserve the original logo appearance.
+
+==================================================
+DESIGN LANGUAGE
+==================================================
+
+Overall design:
+
+DARK CINEMATIC + PREMIUM FUTURISTIC EVENT PRODUCTION.
+
+Use:
+
+• Large typography
+• Strong visual hierarchy
+• Generous spacing
+• Dark backgrounds
+• Purple neon accents
+• Subtle gradients
+• Soft purple/magenta glows
+• Thin borders
+• Large photography
+• Cinematic overlays
+• Smooth hover effects
+• Scroll animations
+• Subtle grain/noise texture
+• Glass effects only where appropriate
+
+Do NOT overuse glassmorphism.
+
+Do NOT make the website look like a SaaS dashboard.
+
+Do NOT use excessive rounded cards.
+
+Do NOT use childish graphics.
+
+Do NOT use excessive emojis.
+
+The design should feel premium and established.
+
+==================================================
+TYPOGRAPHY
+==================================================
+
+Use a modern bold sans-serif typography system.
+
+Recommended fonts:
+
+Headings:
+Space Grotesk / Sora / Outfit
+
+Body:
+Inter / Manrope
+
+Use a strong oversized headline style.
+
+Example:
+
+WE CREATE
+MOMENTS
+THAT MOVE
+EVERYONE.
+
+Large typography should be a major part of the visual identity.
+
+Use uppercase typography selectively for major statements.
+
+Use letter spacing for small labels such as:
+
+CAPZ ENTERTAINMENT
+OUR SERVICES
+SELECTED WORK
+LET'S CREATE
+
+==================================================
+NAVIGATION
+==================================================
+
+Create a premium sticky navigation.
+
+Left:
+Capz Entertainment logo
+
+Center/right navigation:
+
+HOME
+ABOUT
+SERVICES
+EVENTS
+GALLERY
+CONTACT
+
+Right:
+“START AN EVENT” button
+
+Navbar should be transparent/dark initially and become slightly blurred/darker while scrolling.
+
+Mobile:
+Use a clean animated hamburger menu.
+
+The navbar must remain identical across all pages.
+
+==================================================
+HOMEPAGE
+==================================================
+
+Create a cinematic full-screen hero.
+
+Hero background:
+Dark #0B0B17
+
+Use an atmospheric concert/event-production visual.
+
+Add subtle purple and magenta lighting.
+
+Hero content:
+
+SMALL LABEL:
+CAPZ ENTERTAINMENT
+
+MAIN HEADLINE:
+
+EVENTS
+BEYOND
+THE ORDINARY.
+
+Supporting text:
+
+“We create, produce and transform live experiences into moments people remember.”
+
+Buttons:
+
+EXPLORE OUR WORK
+START AN EVENT
+
+Add a subtle animated scroll indicator.
+
+The hero should feel like the opening scene of a major live event.
+
+==================================================
+HOMEPAGE — BRAND STATEMENT
+==================================================
+
+Create a large typography section.
+
+Headline:
+
+WE DON'T JUST PRODUCE EVENTS.
+WE CREATE EXPERIENCES.
+
+Supporting copy:
+
+“From high-energy concerts to corporate experiences and college culturals, Capz Entertainment brings creative vision, technical precision and unforgettable energy to every stage.”
+
+Use large typography with animated text reveal.
+
+==================================================
+SERVICES SECTION
+==================================================
+
+Create a premium services section.
+
+Title:
+
+WHAT WE CREATE
+
+Services:
+
+01
+CONCERTS & LIVE SHOWS
+
+02
+CORPORATE EVENTS
+
+03
+COLLEGE CULTURALS
+
+04
+EVENT PRODUCTION
+
+05
+STAGE & TECHNICAL PRODUCTION
+
+06
+ARTIST & TALENT EXPERIENCES
+
+Each service should have:
+• Large number
+• Title
+• Short description
+• Minimal icon/visual
+• Hover interaction
+
+Use consistent styling across all service cards.
+
+==================================================
+FEATURED EVENTS
+==================================================
+
+Section title:
+
+SELECTED EXPERIENCES
+
+Create large cinematic event cards.
+
+Each card should contain:
+
+Event image
+Event category
+Event name
+Year
+Location
+
+Cards should have subtle zoom/parallax hover effects.
+
+Use purple/magenta lighting overlays.
+
+Do not invent real event names, clients or statistics.
+
+Use clearly marked placeholder content where actual portfolio information is not available.
+
+==================================================
+ABOUT SECTION
+==================================================
+
+Headline:
+
+BUILT TO MAKE
+EVERY MOMENT
+MATTER.
+
+Copy:
+
+“Capz Entertainment is an event production company built around one idea — every event has the potential to become an unforgettable experience.”
+
+Explain that Capz works across:
+
+Concerts
+Corporate Events
+College Culturals
+Live Experiences
+Event Production
+
+Include a CTA:
+
+DISCOVER CAPZ
+
+==================================================
+VISION SECTION
+==================================================
+
+Create a visually dramatic full-width section.
+
+Headline:
+
+TO TRANSFORM EVERY EVENT
+INTO AN UNFORGETTABLE EXPERIENCE.
+
+Supporting lines:
+
+“From the first idea to the final spotlight, we bring together creativity, production and execution to create experiences that stay with people long after the stage goes dark.”
+
+Use a large purple/magenta glow behind the typography.
+
+==================================================
+WHY CAPZ
+==================================================
+
+Title:
+
+WHY CAPZ
+
+Create four premium feature blocks:
+
+01
+CREATIVE VISION
+
+02
+PRODUCTION PRECISION
+
+03
+ENERGY THAT CONNECTS
+
+04
+EXPERIENCES THAT LAST
+
+Use minimal line icons and subtle hover animations.
+
+==================================================
+PROCESS SECTION
+==================================================
+
+Title:
+
+FROM VISION
+TO EXPERIENCE.
+
+Show a horizontal/vertical process:
+
+01 — IDEATE
+Understanding the vision.
+
+02 — DESIGN
+Building the creative direction.
+
+03 — PRODUCE
+Turning concepts into reality.
+
+04 — EXECUTE
+Delivering every detail.
+
+05 — EXPERIENCE
+Creating the moment people remember.
+
+==================================================
+GALLERY
+==================================================
+
+Create a premium visual gallery.
+
+Use large asymmetric image layouts.
+
+Include:
+
+Concerts
+Corporate
+College
+Behind The Scenes
+Production
+
+Images should have consistent dark/purple treatment.
+
+Hover:
+Image zoom + category + view button.
+
+Create a fullscreen lightbox when an image is clicked.
+
+==================================================
+CONTACT CTA
+==================================================
+
+Create a dramatic final CTA section.
+
+Headline:
+
+HAVE A VISION?
+LET'S BUILD THE STAGE.
+
+Supporting text:
+
+“Tell us what you're imagining. We'll help turn it into an experience.”
+
+Button:
+
+START YOUR EVENT
+
+Use a strong purple/magenta glow.
+
+==================================================
+CONTACT PAGE
+==================================================
+
+Create a premium contact page.
+
+Headline:
+
+LET'S CREATE
+SOMETHING
+UNFORGETTABLE.
+
+Form fields:
+
+Name
+Company / Organization
+Email
+Phone
+Event Type
+Event Date
+Location
+Tell us about your event
+
+Button:
+
+SEND ENQUIRY
+
+Also include:
+
+CAPZ ENTERTAINMENT
+
+Email:
+[PLACEHOLDER]
+
+Phone:
+[PLACEHOLDER]
+
+Location:
+[PLACEHOLDER]
+
+Instagram:
+[PLACEHOLDER]
+
+Do not invent contact information.
+
+==================================================
+ABOUT PAGE
+==================================================
+
+Create a dedicated About page with the same exact visual system.
+
+Sections:
+
+• Hero
+• Who We Are
+• What Drives Us
+• Our Vision
+• Our Approach
+• Capz Capabilities
+• Final CTA
+
+Use large editorial typography and cinematic imagery.
+
+==================================================
+SERVICES PAGE
+==================================================
+
+Create a dedicated Services page.
+
+Each service gets a large visual section.
+
+Concerts & Live Shows
+Corporate Events
+College Culturals
+Event Production
+Stage & Technical Production
+Artist & Talent Experiences
+
+Each section should include:
+• Large number
+• Large title
+• Description
+• Image
+• Capabilities
+• CTA
+
+==================================================
+EVENTS PAGE
+==================================================
+
+Create a portfolio/events page.
+
+Use a filter system:
+
+ALL
+CONCERTS
+CORPORATE
+COLLEGE
+
+Create a responsive grid.
+
+Each event card should include:
+• Image
+• Event name
+• Category
+• Year
+• Location
+
+Use placeholder content until real Capz events are added.
+
+==================================================
+GALLERY PAGE
+==================================================
+
+Create a visual-first gallery page.
+
+Use masonry/asymmetric layouts.
+
+Add filters:
+
+ALL
+CONCERTS
+CORPORATE
+COLLEGE
+BEHIND THE SCENES
+
+Include fullscreen image viewer.
+
+==================================================
+CONTACT PAGE
+==================================================
+
+Maintain exactly the same navbar, typography, buttons, footer and visual language.
+
+Use a strong cinematic background.
+
+Make the enquiry form visually premium but simple.
+
+==================================================
+FOOTER
+==================================================
+
+Every page must use the SAME footer.
+
+Include:
+
+CAPZ ENTERTAINMENT
+
+“EVENTS BEYOND THE ORDINARY”
+
+Navigation:
+Home
+About
+Services
+Events
+Gallery
+Contact
+
+Social:
+Instagram
+LinkedIn
+YouTube
+
+CTA:
+START AN EVENT
+
+Copyright:
+© 2026 Capz Entertainment. All rights reserved.
+
+==================================================
+ANIMATION SYSTEM
+==================================================
+
+Use smooth, premium animations.
+
+Page load:
+• Fade/slide reveal
+• Logo reveal where appropriate
+
+Scroll:
+• Fade-up sections
+• Text reveal
+• Image reveal
+• Subtle parallax
+
+Hover:
+• Image zoom
+• Purple glow
+• Border transition
+• Slight movement
+
+Buttons:
+• Smooth purple/magenta glow
+• Subtle arrow movement
+
+Keep animations sophisticated.
+
+DO NOT make animations excessive or distracting.
+
+Performance must remain smooth.
+
+==================================================
+RESPONSIVE DESIGN
+==================================================
+
+The website must be fully responsive.
+
+Desktop:
+Large cinematic layouts.
+
+Tablet:
+Adapt spacing and typography.
+
+Mobile:
+Prioritize readability and visual impact.
+
+Mobile navigation must become a hamburger menu.
+
+All sections must work correctly on:
+• Desktop
+• Laptop
+• Tablet
+• Mobile
+
+Do not simply shrink the desktop design.
+
+Create intentional mobile layouts.
+
+==================================================
+TECHNICAL REQUIREMENTS
+==================================================
+
+Build the website with clean reusable components.
+
+Create reusable:
+
+Navbar
+Footer
+Button
+SectionHeading
+EventCard
+ServiceCard
+GalleryCard
+CTASection
+
+Use a centralized design system for:
+
+Colours
+Typography
+Spacing
+Border radius
+Shadows
+Glow effects
+Animations
+
+Do not hardcode different styles randomly across pages.
+
+All pages must share the same design tokens.
+
+Use semantic HTML.
+
+Optimize images.
+
+Lazy-load gallery images.
+
+Ensure good accessibility.
+
+Use proper heading hierarchy.
+
+Make buttons and forms keyboard accessible.
+
+==================================================
+MOST IMPORTANT DESIGN RULE
+==================================================
+
+The website must NEVER feel like multiple websites.
+
+Every page must clearly belong to the same CAPZ ENTERTAINMENT brand.
+
+If a design decision conflicts with the Capz visual identity, prioritize the Capz identity.
+
+The final result should feel:
+
+CINEMATIC.
+BOLD.
+PREMIUM.
+ENERGETIC.
+FUTURISTIC.
+PROFESSIONAL.
+
+CAPZ ENTERTAINMENT
+
+EVENTS BEYOND THE ORDINARY.
